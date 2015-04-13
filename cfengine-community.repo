@@ -1,0 +1,5 @@
+[cfengine-repository]
+name=CFEngine
+baseurl=http://cfengine.com/pub/yum/\$basearch
+enabled=1
+gpgcheck=1
